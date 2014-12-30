@@ -1,0 +1,17 @@
+idee om een eigen quiz webapp te ontwikkelen om mezelf allerlei onderwerpen aan te leren
+en te blijven leren zoals HTML, CSS, JS etc.
+
+is gewoon leuk en kan het op mijn portfolio dumpen.
+
+quizapp moet de volgende onderdelen bezitten:
+- onderwerp selectie
+- vragen kunnen toevoegen met;
+	* multiple choice (4 minimaal) mogelijke antwoorden
+	* beschrijving bij vraag
+	* goede antwoord beschrijving bij vraag
+	* overzicht van vragen 
+	* mogelijkheid tot bewerken van die vragen
+	* evt. registratie van goede/foute antwoorden in tijdlijn ofzo?
+- moet scaleable als webapp zijn voor mobiel (en kan later worden geappified met Phonegap
+ (wilde ik bij remco's app ook doen maar kwam er nie van)
+- inlog voor alleen mij als gebruiker
